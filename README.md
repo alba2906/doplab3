@@ -4,15 +4,21 @@
 
 Необходимо реализовать лексический и синтаксический анализ конструкции с помощью программного обеспечения ANTLR
 
+# Вариант задания
+
+Лексический анализатор должен распознавать конструкцию объявления ассоциативного массива с инициализацией на языке C#.
+
 Пример конструкции:
 
-``` csharp
+```csharp
 Dictionary<int, string> My_dict1 = new Dictionary<int, string> {
     { 1, "one" },
     { 2, "two" },
     { 3, "three" }
 };
 ```
+
+---
 
 ------------------------------------------------------------------------
 
@@ -24,13 +30,22 @@ Dictionary<int, string> My_dict1 = new Dictionary<int, string> {
 
 ------------------------------------------------------------------------
 
-## 🧠 1. Разработанная грамматика
+### Грамматика
+```text
+Dictionary Declaration = "Dictionary", "<", "int", ",", "string", ">",
+                         Dictionary Identifier,
+                         "=",
+                         "new", "Dictionary", "<", "int", ",", "string", ">",
+                         "{",
+                         Dictionary Element,
+                         {";", Dictionary Element},
+                         "}", ";";
 
-    <dictionary_declaration> ::= 
-        "Dictionary" "<" <type> "," <type> ">" 
-        <identifier> "=" 
-        "new" "Dictionary" "<" <type> "," <type> ">" 
-        "{" <pair_list> "}" ";"
+Dictionary Element = "{", Number, ",", String, "}";
+Dictionary Identifier = letter, {letter | digit | "_"};
+Number = digit, {digit};
+String = "\"", {symbol}, "\"";
+```
 
 ------------------------------------------------------------------------
 
