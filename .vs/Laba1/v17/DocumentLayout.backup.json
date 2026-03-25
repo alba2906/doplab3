@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\models\\errorrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:models\\errorrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\models\\errorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:models\\errorinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\windows\\compiler.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:windows\\compiler.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\windows\\compiler.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:windows\\compiler.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\models\\tokeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:models\\tokeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\lexererrorlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:lexererrorlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\laba1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:laba1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\collectingerrorlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:collectingerrorlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\models\\analysisrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:models\\analysisrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\models\\outputrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:models\\outputrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\grammar\\dictionarydeclaration.g4||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:grammar\\dictionarydeclaration.g4||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\.nuget\\packages\\antlr4buildtasks\\12.14.0\\build\\Antlr4BuildTasks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\windows\\aboutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:windows\\aboutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439\\desktop\\laba1\\windows\\reference.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2425ED01-F241-40CE-9B0B-53D7B73205B9}|Laba1.csproj|solutionrelative:windows\\reference.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorRow.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Models\\ErrorRow.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorRow.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Models\\ErrorRow.cs*",
+              "RelativeToolTip": "Models\\ErrorRow.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T23:12:08.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Models\\TokenInfo.cs",
+              "RelativeDocumentMoniker": "Models\\TokenInfo.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Models\\TokenInfo.cs",
+              "RelativeToolTip": "Models\\TokenInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T23:03:55.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LexerErrorListener.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\LexerErrorListener.cs",
+              "RelativeDocumentMoniker": "LexerErrorListener.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\LexerErrorListener.cs",
+              "RelativeToolTip": "LexerErrorListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T22:57:29.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OutputRow.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Models\\OutputRow.cs",
+              "RelativeDocumentMoniker": "Models\\OutputRow.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Models\\OutputRow.cs",
+              "RelativeToolTip": "Models\\OutputRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:38:15.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compiler.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Windows\\Compiler.xaml",
+              "RelativeDocumentMoniker": "Windows\\Compiler.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Windows\\Compiler.xaml",
+              "RelativeToolTip": "Windows\\Compiler.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-25T21:18:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Windows\\AboutWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\AboutWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Windows\\AboutWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\AboutWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T03:06:41.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Compiler.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Windows\\Compiler.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\Compiler.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Windows\\Compiler.xaml.cs",
+              "RelativeToolTip": "Windows\\Compiler.xaml.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAmwFcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T03:05:34.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Models\\ErrorInfo.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorInfo.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Models\\ErrorInfo.cs",
+              "RelativeToolTip": "Models\\ErrorInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T20:52:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnalysisRow.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Models\\AnalysisRow.cs",
+              "RelativeDocumentMoniker": "Models\\AnalysisRow.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Models\\AnalysisRow.cs",
+              "RelativeToolTip": "Models\\AnalysisRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T20:51:52.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollectingErrorListener.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\CollectingErrorListener.cs",
+              "RelativeDocumentMoniker": "CollectingErrorListener.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\CollectingErrorListener.cs",
+              "RelativeToolTip": "CollectingErrorListener.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T20:51:05.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Laba1.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Laba1.csproj",
+              "RelativeDocumentMoniker": "Laba1.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Laba1.csproj",
+              "RelativeToolTip": "Laba1.csproj",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwEsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T22:38:43.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reference.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Windows\\Reference.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\Reference.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Windows\\Reference.xaml.cs",
+              "RelativeToolTip": "Windows\\Reference.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T03:06:36.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DictionaryDeclaration.g4",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Grammar\\DictionaryDeclaration.g4",
+              "RelativeDocumentMoniker": "Grammar\\DictionaryDeclaration.g4",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\Desktop\\Laba1\\Grammar\\DictionaryDeclaration.g4",
+              "RelativeToolTip": "Grammar\\DictionaryDeclaration.g4",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-25T20:47:48.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAEwFkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-25T20:46:06.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Antlr4BuildTasks.targets",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\.nuget\\packages\\antlr4buildtasks\\12.14.0\\build\\Antlr4BuildTasks.targets",
+              "RelativeDocumentMoniker": "..\\..\\.nuget\\packages\\antlr4buildtasks\\12.14.0\\build\\Antlr4BuildTasks.targets",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439\\.nuget\\packages\\antlr4buildtasks\\12.14.0\\build\\Antlr4BuildTasks.targets",
+              "RelativeToolTip": "..\\..\\.nuget\\packages\\antlr4buildtasks\\12.14.0\\build\\Antlr4BuildTasks.targets",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwBgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-25T20:58:25.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
