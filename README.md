@@ -51,42 +51,73 @@ String = "\"", {symbol}, "\"";
 ## Грамматика ANTLR
 
 ``` antlr
+grammar DictionaryDeclaration;
+
 dictionaryDeclaration
-    : dictionaryType IDENTIFIER ASSIGN NEW dictionaryType LBRACE pairList? RBRACE SEMI EOF
+    : DICTIONARY LT INT COMMA STRING_TYPE GT
+      dictionaryIdentifier
+      ASSIGN
+      NEW DICTIONARY LT INT COMMA STRING_TYPE GT
+      LBRACE
+      dictionaryElement (SEMI dictionaryElement)*
+      RBRACE
+      SEMI
+      EOF
+    ;
+
+dictionaryElement
+    : LBRACE number COMMA string RBRACE
+    ;
+
+dictionaryIdentifier
+    : IDENTIFIER
+    ;
+
+number
+    : NUMBER
+    ;
+
+string
+    : STRING
+    ;
+
+DICTIONARY  : 'Dictionary';
+NEW         : 'new';
+INT         : 'int';
+STRING_TYPE : 'string';
+
+ASSIGN : '=';
+LT     : '<';
+GT     : '>';
+COMMA  : ',';
+SEMI   : ';';
+LBRACE : '{';
+RBRACE : '}';
+
+IDENTIFIER
+    : LETTER (LETTER | DIGIT | '_')*
+    ;
+
+NUMBER
+    : DIGIT+
+    ;
+
+STRING
+    : '"' (~["\r\n])* '"'
+    ;
+
+fragment LETTER
+    : [a-zA-Z]
+    ;
+
+fragment DIGIT
+    : [0-9]
+    ;
+
+WS
+    : [ \t\r\n]+ -> skip
     ;
 ```
 
 ------------------------------------------------------------------------
 
-## 🧪 3. Тестовые примеры
-
-### ✅ Корректный пример
-
-``` csharp
-Dictionary<int, string> My_dict1 = new Dictionary<int, string> {
-    { 1, "one" },
-    { 2, "two" },
-    { 3, "three" }
-};
-```
-
-### ❌ Ошибка
-
-``` csharp
-Dictionary<int, string My_dict1 = new Dictionary<int, string> {
-```
-
-------------------------------------------------------------------------
-
-## 📊 4. Результаты
-
--   Лексический анализ --- успешно
--   Синтаксический анализ --- корректность/ошибки отображаются в
-    программе
-
-------------------------------------------------------------------------
-
-## 📌 Вывод
-
-Реализован анализатор на основе ANTLR, который корректно обрабатывает
-конструкцию Dictionary.
