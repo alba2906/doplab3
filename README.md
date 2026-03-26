@@ -37,7 +37,7 @@ Dictionary Declaration = "Dictionary", "<", "int", ",", "string", ">",
                          "new", "Dictionary", "<", "int", ",", "string", ">",
                          "{",
                          Dictionary Element,
-                         {";", Dictionary Element},
+                         {",", Dictionary Element},
                          "}", ";";
 
 Dictionary Element = "{", Number, ",", String, "}";
