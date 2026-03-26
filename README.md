@@ -29,7 +29,7 @@ Dictionary<int, string> My_dict1 = new Dictionary<int, string> {
 
 ------------------------------------------------------------------------
 
-### Грамматика
+## Грамматика
 ```text
 Dictionary Declaration = "Dictionary", "<", "int", ",", "string", ">",
                          Dictionary Identifier,
