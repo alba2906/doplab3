@@ -120,4 +120,22 @@ WS
 ```
 
 ------------------------------------------------------------------------
+## Тестовые примеры
+### Корректная строка
+```csharp
+Dictionary<int, string> My_dict1 = new Dictionary<int, string> {
+    { 1, "one" },
+    { 2, "two" },
+    { 3, "three" }
+};
+```
+**Результат:**
+<img width="712" height="603" alt="image" src="https://github.com/user-attachments/assets/b5718610-43e2-4a1a-9ada-8dda292ae7e4" />
+
+### Несколько ошибок
+```csharp
+Dictionary<int, string> dict = new Dictionary<int, string>{ {,"one"}; {2,two} };
+```
+**Результат:**
+<img width="708" height="702" alt="image" src="https://github.com/user-attachments/assets/ff3194f5-9c0b-4022-ae57-cc2a92f73d34" />
 
